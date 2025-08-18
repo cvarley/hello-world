@@ -2,6 +2,4 @@
 
 Hello. This is an edit.
 
-and another
-
-and one more! after "a while"
+and another (with a delete)
